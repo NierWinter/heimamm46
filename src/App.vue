@@ -1,6 +1,6 @@
 <template>
   <div>
-
+    <router-link to="info"> sdadada</router-link>
   </div>
 </template>
 
